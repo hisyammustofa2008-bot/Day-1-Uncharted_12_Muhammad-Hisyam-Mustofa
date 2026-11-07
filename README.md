@@ -1,6 +1,13 @@
 # Day-1-Uncharted_12_Muhammad-Hisyam-Mustofa
 Repository ini merupakan dokumentasi resmi dari kegiatan Day 1 Proyek Workshop. Di dalam repository ini tersimpan catatan materi, poin-poin pembelajaran penting, serta refleksi pribadi selama mengikuti rangkaian acara pada hari pertama.
 
+Informasi Peserta
+Nama Lengkap: Muhammad Hisyam Mstofa
+Kelompok: Kelompok 12 Uncharted
+Kegiatan: Day 1 Proyek Workshop
+Deskripsi Repository
+Repository ini merupakan dokumentasi resmi dari kegiatan Day 1 Proyek Workshop. Di dalam repository ini tersimpan catatan materi, poin-poin pembelajaran penting, serta refleksi pribadi selama mengikuti rangkaian acara pada hari pertama.
+
 Tujuan Repository
 Penyimpanan Dokumentasi: Menjadi wadah pencatatan materi dan pengetahuan yang didapatkan selama sesi workshop.
 Pemenuhan Tugas: Memenuhi persyaratan evaluasi dan pengumpulan tugas Day 1 Proyek Workshop.
@@ -8,7 +15,6 @@ Portofolio Pembelajaran: Sebagai rekam jejak digital atas proses belajar dan pen
 Pemahaman Akademik & Karir: Memahami seluk-beluk TIK, kurikulum, serta profil lulusan sebagai arah studi dan persiapan magang.
 Penguasaan Prompt Engineering: Melatih kemampuan prompting AI secara terstruktur untuk mempercepat pembuatan proyek aplikasi dan website.
 Portofolio & Dokumentasi GitHub: Membiasakan standar dokumentasi teknis di GitHub sebagai portofolio digital dan syarat evaluasi tugas.
-
 Dokumentasi Kegiatan Workshop (Day 1)
 
 Rangkuman Materi Berikut adalah rangkuman materi yang disampaikan pada sesi workshop hari pertama:
